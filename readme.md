@@ -44,7 +44,8 @@ QuecPython 推出了基于豆包 webRTC 的 AI 聊天机器人解决方案。该
 
 - **硬件：**
   - [EC600MCNLE QuecPython 标准开发板](https://python.quectel.com/doc/Getting_started/zh/evb/ec600x-evb.html)（含天线、Type-C 数据线等）
-    > 点击查看开发板的[原理图](https://images.quectel.com/python/2023/05/EC600X_EVB_V3.2-SCH.pdf)和[丝印图](https://images.quectel.com/python/2023/05/EC600X_EVB_V3.2-丝印.pdf)文档。
+    > - 点击查看开发板的[原理图](https://images.quectel.com/python/2023/05/EC600X_EVB_V3.2-SCH.pdf)和[丝印图](https://images.quectel.com/python/2023/05/EC600X_EVB_V3.2-丝印.pdf)文档。
+    > - [点此购买开发板套件](https://www.quecmall.com/goods-detail/2c90800c916a8eb501918d85528b017b)
   - 电脑（Windows 7、Windows 10 或 Windows 11）
   - LCD 显示屏
     - 型号：ST7789
