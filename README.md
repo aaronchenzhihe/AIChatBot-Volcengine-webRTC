@@ -81,7 +81,7 @@ QuecPython 推出了基于豆包 webRTC 的 AI 聊天机器人解决方案。该
 
 1. **连接硬件：**
    按照下图进行硬件连接：
-   <img src="./docs/zh/media/wire_connection.jpg" style="zoom:67%;" /> 
+   <img src="https://raw.githubusercontent.com/QuecPython/AIChatBot-Volcengine-webRTC/refs/heads/master/docs/zh/media/wire_connection.jpg" style="zoom:67%;" /> 
    1. 将喇叭连接至图中标识有`SPK+`和`SPK-`的排针上。
    2. 将 LCD 屏连接至标识有 `LCD` 字样的排针上。
    3. 在图示位置插入可用的 Nano SIM 卡。
