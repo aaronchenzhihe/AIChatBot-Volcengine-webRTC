@@ -4,11 +4,11 @@
 
 - [Introduction](#Introduction)
 - [Features](#Features)
-- [Quick Start](#Quick Start)
+- [Quick_Start](#Quick_Start)
   - [Prerequisites](#Prerequisites)
   - [Installation](#Installation)
-  - [Running the Application](#Running the Application)
-- [Directory Structure](#Directory Structure)
+  - [Running_ Application](#Running_Application)
+- [Directory_Structure](#Directory_Structure)
 - [Contributing](#Contributing)
 - [License](#License)
 - [Support](#Support)
@@ -36,7 +36,7 @@ The following module models support this feature:
 - Supports voice wake-up.
 - Uses Python for easy secondary development.
 
-## Quick Start
+## Quick_Start
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ Before you begin, ensure you have the following prerequisites:
 > Note: The Volcano dialogue token in the firmware is for temporary testing and may be revoked at any time. For a better experience, contact Quectel technical support.
 > If you have your own Volcano token, you can configure it directly using the `tiktok.config` interface.
 
-### Running the Application
+### Running_Application
 
 1. **Connect the hardware:**
    Follow the diagram below for hardware connections:
@@ -132,7 +132,7 @@ rtc_queue key event 2
 stop rtc
 ```
 
-## Directory Structure
+## Directory_Structure
 
 ```plaintext
 solution-AI/
